@@ -12,3 +12,4 @@ namespace BlazingPizza.Data
         public DbSet<PizzaSpecial> Specials { get; set; }
     }    
 }
+    
